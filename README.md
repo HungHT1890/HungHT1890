@@ -1,9 +1,7 @@
 ### HI - I AM VIETNAM MMO CODER 👋
 [![HungHT1890](https://github-readme-stats.vercel.app/api?username=HungHT1890)](https://github.com/anuraghazra/github-readme-stats)
+===================================================================================================
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-[website]: [https://devopsbyte.com](https://sites.google.com/view/openbulletconfigshop)
-[facebook]: [https://instagram.com/jobin_james_ride](https://www.facebook.com/hungmmo.hunght1890/)
-[telegram]: [https://linkedin.com/in/jjames-](https://t.me/hunght1890)
 <!--
 **HungHT1890/HungHT1890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
