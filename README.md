@@ -1,4 +1,7 @@
-# Mình nhận code các loại tool mmo - chuyên các loại tool liên quan dến auto trình duyệt và request
+# Ở đây mình nhận code các job mmo - black - scan - bulk - hack - 
+  ## Sở trường
+    - Request
+    - Selenium
 ## liên hệ mình qua:
   - telegram: t.me/hunght1890
   - email: hungsaki2003@gmail.com
