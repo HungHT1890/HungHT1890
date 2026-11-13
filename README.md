@@ -1,1 +1,1 @@
-<p><img src="https://c.tenor.com/E_dGt94zz18AAAAC/tenor.gif"/></p>
+<p><img src="https://camo.githubusercontent.com/00db0a89f89039062353fe2de6f80390f8571fb566879a4e09bd9f7ea95429d2/68747470733a2f2f632e74656e6f722e636f6d2f455f64477439347a7a313841414141432f74656e6f722e676966"/></p>
